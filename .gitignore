@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.py[cod]
+.env
+data/warehouse/*.duckdb*
+data/raw/inbox/*
+!data/raw/inbox/.gitkeep
+data/exports/*
+!data/exports/.gitkeep
+

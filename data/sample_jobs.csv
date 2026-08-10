@@ -1,0 +1,37 @@
+source,source_url,title,company,location,industry,description,posted_date,contract_type,experience_level,salary_min_tnd,salary_max_tnd,salary_period,is_demo
+demo,https://example.org/jobs/001,Data Analyst,Carthage Analytics,Tunis,Technology,"Analyse de données avec Python SQL Power BI et Excel. Français et anglais requis. Junior 0-2 ans.",2026-01-08,CDI,Entry-level,1800,2400,month,true
+demo,https://example.org/jobs/002,Développeur Backend Python,Medina Digital,Ariana,Technology,"Développement FastAPI PostgreSQL Docker Git. Anglais technique. 3 ans expérience.",2026-01-15,CDI,Mid-level,2500,3300,month,true
+demo,https://example.org/jobs/003,Commercial B2B,Sahara Services,Sfax,Sales,"Vente et relation client. Excellente communication en français et arabe. Débutant accepté.",2026-01-24,CDI,Entry-level,1200,1700,month,true
+demo,https://example.org/jobs/004,BI Developer,Northstar Consulting,Tunis,Consulting,"Power BI SQL Server Excel et gestion de projet Agile. French and English.",2026-02-02,CDI,Mid-level,2600,3400,month,true
+demo,https://example.org/jobs/005,DevOps Engineer,Cloud Atlas,Lac 2,Technology,"AWS Azure Docker Kubernetes Linux CI/CD Git. Senior 5+ ans. English required.",2026-02-10,CDI,Senior,3800,5200,month,true
+demo,https://example.org/jobs/006,Stagiaire Data Science,Olive AI,Sousse,Technology,"Stage Python pandas SQL Tableau. Français courant et anglais technique.",2026-02-17,Internship,Internship,500,700,month,true
+demo,https://example.org/jobs/007,Customer Success Agent,Coast Connect,Monastir,Customer Service,"Service client et communication. Français obligatoire; Arabic apprécié.",2026-02-25,CDD,Entry-level,1100,1400,month,true
+demo,https://example.org/jobs/008,Frontend Developer,Pixel Dunes,Tunis,Technology,"React TypeScript JavaScript Git Scrum. English B2. Junior profile.",2026-03-03,CDI,Entry-level,1900,2500,month,true
+demo,https://example.org/jobs/009,Database Administrator,FinCore Tunis,Tunis,Finance,"Oracle database SQL Server Linux. Français. 4 ans d'expérience.",2026-03-09,CDI,Mid-level,3000,4000,month,true
+demo,https://example.org/jobs/010,Analyste Reporting,Cap Bon Retail,Nabeul,Retail,"Excel Power BI SQL et communication. Français et arabe. Débutant accepté.",2026-03-14,CDI,Entry-level,1500,2100,month,true
+demo,https://example.org/jobs/011,Full Stack Engineer,NovaSoft,Ariana,Technology,"Angular Java Spring SQL Docker Git. English and French. 3 ans.",2026-03-21,CDI,Mid-level,2800,3700,month,true
+demo,https://example.org/jobs/012,Chef de Projet IT,Maghreb Systems,Tunis,Technology,"Gestion de projet Agile Scrum communication Azure. Français et anglais. Senior.",2026-03-28,CDI,Senior,4000,5500,month,true
+demo,https://example.org/jobs/013,Data Engineer,Atlas Data Labs,Tunis,Technology,"Python SQL Spark PostgreSQL AWS Docker. English required. 3 ans.",2026-04-03,CDI,Mid-level,3200,4300,month,true
+demo,https://example.org/jobs/014,Développeur PHP,Web Kairouan,Kairouan,Technology,"PHP MySQL JavaScript Git. Français. Junior développeur.",2026-04-08,CDI,Entry-level,1400,2000,month,true
+demo,https://example.org/jobs/015,Analyste Financier,Banque Horizon,Tunis,Finance,"Excel Power BI SQL communication. Maîtrise du français et de l'anglais. 2-5 ans.",2026-04-13,CDI,Mid-level,2500,3400,month,true
+demo,https://example.org/jobs/016,Machine Learning Intern,Olive AI,Sousse,Technology,"Internship Python pandas SQL FastAPI Git. English technical documentation.",2026-04-19,Internship,Internship,600,800,month,true
+demo,https://example.org/jobs/017,Responsable Commercial,Sahara Services,Sfax,Sales,"Vente gestion de projet Excel. العربية والفرنسية. Senior manager.",2026-04-24,CDI,Senior,2800,3800,month,true
+demo,https://example.org/jobs/018,QA Automation Engineer,TestLab Tunisia,Ariana,Technology,"Python Java CI/CD Docker Git Agile. English B2. 3 ans.",2026-04-29,CDI,Mid-level,2400,3200,month,true
+demo,https://example.org/jobs/019,Power BI Consultant,Northstar Consulting,Tunis,Consulting,"Power BI SQL Excel Azure project management. French and English. 4 ans.",2026-05-04,CDI,Mid-level,3000,4200,month,true
+demo,https://example.org/jobs/020,Junior Data Analyst,Smart Factory,Ben Arous,Manufacturing,"Python SQL Power BI Excel. Français. Fresh graduate accepté.",2026-05-09,CDI,Entry-level,1700,2300,month,true
+demo,https://example.org/jobs/021,Cloud Engineer,Cloud Atlas,Lac 2,Technology,"AWS Kubernetes Docker Linux Python CI/CD. English required. Senior.",2026-05-13,CDI,Senior,4200,5800,month,true
+demo,https://example.org/jobs/022,Chargé de clientèle,Coast Connect,Monastir,Customer Service,"Relation client vente communication Excel. Français et arabe. Débutant.",2026-05-17,CDD,Entry-level,1150,1450,month,true
+demo,https://example.org/jobs/023,Software Engineer .NET,FinCore Tunis,Tunis,Finance,"C# .NET SQL Server Azure Git Agile. Français et anglais. 3 ans.",2026-05-22,CDI,Mid-level,2900,3900,month,true
+demo,https://example.org/jobs/024,ERP Data Specialist,Industrial One,Bizerte,Manufacturing,"SQL Oracle Excel Power BI. Français obligatoire. 2-5 ans.",2026-05-28,CDI,Mid-level,2200,3000,month,true
+demo,https://example.org/jobs/025,Python Developer,Medina Digital,Ariana,Technology,"Python Django PostgreSQL Docker Git. English. Junior 0-2 ans.",2026-06-02,CDI,Entry-level,2100,2800,month,true
+demo,https://example.org/jobs/026,Data Visualization Analyst,Cap Bon Retail,Nabeul,Retail,"Power BI Tableau SQL Excel Python. Français et anglais. Junior.",2026-06-07,CDI,Entry-level,1900,2600,month,true
+demo,https://example.org/jobs/027,Senior Data Engineer,Atlas Data Labs,Tunis,Technology,"Python SQL Spark AWS Kubernetes PostgreSQL. English required. Lead 5+ ans.",2026-06-12,CDI,Senior,4500,6000,month,true
+demo,https://example.org/jobs/028,Stagiaire Développement Web,Pixel Dunes,Tunis,Technology,"Stage React JavaScript TypeScript Git. Français courant.",2026-06-17,Internship,Internship,500,700,month,true
+demo,https://example.org/jobs/029,Supply Chain Analyst,Port Logistics,Rades,Logistics,"Excel SQL Power BI communication. Français et arabe. 3 ans.",2026-06-21,CDI,Mid-level,2200,3100,month,true
+demo,https://example.org/jobs/030,Product Manager,NovaSoft,Ariana,Technology,"Agile Scrum project management communication SQL. English and French. Senior.",2026-06-26,CDI,Senior,3900,5200,month,true
+demo,https://example.org/jobs/031,BI Analyst,Smart Factory,Ben Arous,Manufacturing,"Power BI SQL Python Excel. Français et anglais. Débutant accepté.",2026-07-02,CDI,Entry-level,1800,2500,month,true
+demo,https://example.org/jobs/032,Backend Engineer,Olive AI,Sousse,Technology,"Python FastAPI PostgreSQL Docker AWS Git. English required. 4 ans.",2026-07-07,CDI,Mid-level,3100,4200,month,true
+demo,https://example.org/jobs/033,Data Platform Engineer,Cloud Atlas,Lac 2,Technology,"Python SQL Spark Azure Docker Kubernetes CI/CD. English. Senior 5+ ans.",2026-07-12,CDI,Senior,4600,6200,month,true
+demo,https://example.org/jobs/034,Analyste Marketing,Sahara Services,Sfax,Marketing,"Excel Power BI Tableau communication vente. Français et arabe. Junior.",2026-07-17,CDI,Entry-level,1600,2200,month,true
+demo,https://example.org/jobs/035,Mobile API Developer,Medina Digital,Ariana,Technology,"Node.js TypeScript MongoDB Docker Git. English and French. 3 ans.",2026-07-22,CDI,Mid-level,2700,3600,month,true
+demo,https://example.org/jobs/036,Junior BI Consultant,Northstar Consulting,Tunis,Consulting,"SQL Power BI Excel Python project management. Français et anglais. Fresh graduate.",2026-07-28,CDI,Entry-level,2000,2700,month,true

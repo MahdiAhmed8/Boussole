@@ -1,0 +1,43 @@
+categories:
+  Programming:
+    python: [python, python3]
+    javascript: [javascript, js, ecmascript]
+    typescript: [typescript]
+    java: [java]
+    c_sharp: [c#, c sharp, .net, dotnet]
+    php: [php]
+  Data & BI:
+    sql: [sql, t-sql, pl/sql]
+    power_bi: [power bi, powerbi]
+    tableau: [tableau]
+    excel: [excel, microsoft excel, vba]
+    pandas: [pandas]
+    spark: [spark, pyspark]
+  Web:
+    react: [react, react.js, reactjs]
+    angular: [angular]
+    vue: [vue, vue.js, vuejs]
+    django: [django]
+    fastapi: [fastapi, fast api]
+    node_js: [node.js, nodejs]
+  Cloud & DevOps:
+    docker: [docker]
+    kubernetes: [kubernetes, k8s]
+    aws: [aws, amazon web services]
+    azure: [azure, microsoft azure]
+    git: [git, github, gitlab]
+    linux: [linux]
+    ci_cd: [ci/cd, continuous integration, devops pipeline]
+  Databases:
+    postgresql: [postgresql, postgres]
+    mysql: [mysql]
+    sql_server: [sql server, mssql]
+    oracle: [oracle database, oracle db]
+    mongodb: [mongodb, mongo db]
+  Professional:
+    agile: [agile, scrum, kanban]
+    communication: [communication, communication skills, communicationnelles]
+    project_management: [project management, gestion de projet]
+    sales: [sales, vente, commercial]
+    customer_service: [customer service, relation client, service client]
+

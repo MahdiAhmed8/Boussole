@@ -1,0 +1,9 @@
+# A source is ignored unless BOTH flags are true. Review terms and robots.txt first.
+sources:
+  - name: example_jsonld
+    type: jsonld_urls
+    enabled: false
+    permission_confirmed: false
+    urls:
+      - https://example.org/jobs/example-role
+
